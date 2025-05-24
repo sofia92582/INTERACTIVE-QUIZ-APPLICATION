@@ -11,9 +11,6 @@ DURATION:8 WEEKS
 
 MENTOR:NEELA SANTOSH
 DESCRIPTION
-Sure! Here's a **500-word simple and clear description** for **Task 1: Quiz Application** for your internship:
-
----
 
  The goal of this task is to help you understand how to create a simple web app that responds to user input, displays dynamic content, and gives feedback based on actions. This is a great exercise to strengthen your understanding of JavaScript and improve your front-end development skills.
 
