@@ -23,3 +23,6 @@ Visually, the quiz should be **responsive**, meaning it should work well on both
 From a coding perspective, use **JavaScript** to control the quiz logic—like showing the next question, checking if an answer is right or wrong, updating the score, and managing the flow from start to finish. Make sure your code is well-structured and includes comments to explain how different parts work. This is helpful for others who read your code and for your own learning.
 
 OUTPUT
+![Image](https://github.com/user-attachments/assets/c05c1c97-2872-4695-8c89-c2c3b0868aff)
+
+![Image](https://github.com/user-attachments/assets/24a8cb97-6d57-488a-9624-c8e5c3a069b8)
